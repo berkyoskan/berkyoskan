@@ -2,4 +2,6 @@
 - 👀 I’m interested in Electronics, Mechanics and, Software
 - 🌱 I’m currently learning Html 5, IoT based things and more...
 - 📫 How to reach me @berkyoskan
-- I am a High School Student in Istanbul. Follow my GitHub!
+- Graduated from Yasar Acar Science High School Istanbul/Beylikduzu. 
+- College student at Aalborg University Esbjerg as Applied Industrial Electronics Student 
+- Follow my GitHub!
