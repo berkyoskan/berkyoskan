@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Html 5, IoT based things and more...
 - 📫 How to reach me @berkyoskan
 - Graduated from Yasar Acar Science High School Istanbul/Beylikduzu. 
-- College student at Aalborg University Esbjerg as Applied Industrial Electronics Student 
+- Applied Industrial Electronics Student in Aalborg University
 - Follow my GitHub!
